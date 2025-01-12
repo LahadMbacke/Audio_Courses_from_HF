@@ -1,6 +1,6 @@
 #%%
 # To plot the waveform for an audio signal, we can use a Python library called librosa:
-!pip install librosa matplotlib numpy -q
+!pip install librosa matplotlib numpy transformers -q 
 #%%
 
 #%%

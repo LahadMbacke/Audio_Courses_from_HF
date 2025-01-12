@@ -1,5 +1,6 @@
 #%%
-!pip install datasets[audio] gradio -q
+# !pip install datasets[audio] gradio -q
+from . import dep
 # %%
 from datasets import load_dataset
 
